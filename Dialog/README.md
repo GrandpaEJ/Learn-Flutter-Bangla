@@ -7,7 +7,7 @@ A versatile, smooth, and fully customizable dialog for Flutter with support for:
 - Image or GIF (local or network)
 - Slide or fade animations
 - Positioning: top, center, bottom
-- Markdown-style text: **bold** and __italic__
+- Markdown-style text: \*\*bold\*\* and \_\_italic\_\_
 - Auto-dismiss after a duration
 - Queue support (multiple dialogs show one by one)
 
