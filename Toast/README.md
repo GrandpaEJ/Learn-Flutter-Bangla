@@ -297,6 +297,19 @@ class _ToastWidgetState extends State<_ToastWidget>
 
 # 🔥 All Usage Examples
 
+### Import 
+```dart
+// ✅ Example 1: if toast.dart is directly under lib/
+import 'toast.dart';
+
+// ✅ Example 2: if toast.dart is inside lib/utils/toast.dart
+import 'utils/toast.dart';
+
+// ✅ Example 3 (optional): if you convert it to a private package
+// import 'package:my_project_name/toast.dart';
+
+```
+
 ### 1. **Simple Toast**
 
 ```dart
